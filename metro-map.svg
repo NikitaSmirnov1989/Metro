@@ -12,7 +12,7 @@
    viewBox="0 0 800 900"
    version="1.1"
    id="svg4597"
-   sodipodi:docname="test.svg"
+   sodipodi:docname="metro-map.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata4603">
@@ -41,9 +41,9 @@
      inkscape:window-height="1271"
      id="namedview4599"
      showgrid="false"
-     inkscape:zoom="0.25"
-     inkscape:cx="1653.4676"
-     inkscape:cy="2418.2945"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="243.62776"
+     inkscape:cy="3990.4393"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -61,7 +61,40 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
-     showguides="false" />
+     showguides="false"
+     inkscape:snap-global="true" />
+  <circle
+     style="fill:#ff00ff;fill-opacity:0;stroke:#782221;stroke-width:5.2916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33898309"
+     id="path2537-7"
+     cx="429.95767"
+     cy="251.48657"
+     transform="rotate(9.9999999)"
+     r="218.52173" />
+  <rect
+     style="display:inline;fill:#b4d445;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-8-3-3-6-0-3-5-0-6-1-10-9-7-8"
+     width="5.2916002"
+     height="16.8312"
+     x="113.8836"
+     y="284.61319"
+     inkscape:transform-center-x="7.8215003"
+     inkscape:transform-center-y="-4.0797963"
+     transform="rotate(-45)" />
+  <rect
+     style="display:inline;fill:#b4d445;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-8-3-3-6-0-3-5-0-6-1-10-9-7-8-7"
+     width="5.2916002"
+     height="32.292881"
+     x="113.89964"
+     y="245.37796"
+     transform="rotate(-45)" />
+  <rect
+     style="display:inline;fill:#999999;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-8-3-3-6-0-3-5-0-6-1-0"
+     width="5.2916002"
+     height="22.242102"
+     x="312.97879"
+     y="76.836609" />
   <path
      id="2-0-4-7-1"
      style="fill:#d40000;fill-opacity:1;stroke:#ffa8af;stroke-width:0"
@@ -126,13 +159,6 @@
      sodipodi:end="0.78539816"
      d="m -295.02298,175.80431 a 5.2916002,5.2916002 0 0 1 3.92203,-5.1113 5.2916002,5.2916002 0 0 1 5.95223,2.4655 5.2916002,5.2916002 0 0 1 -0.84094,6.38752 l -3.74172,-3.74172 z"
      transform="rotate(-90)" />
-  <circle
-     style="fill:#ff00ff;fill-opacity:0;stroke:#782221;stroke-width:5.2916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33898309"
-     id="path2537-7"
-     cx="429.95767"
-     cy="251.48657"
-     transform="rotate(9.9999999)"
-     r="218.52173" />
   <rect
      style="fill:#870084;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-1-8-4-7"
@@ -145,9 +171,9 @@
      transform="rotate(-40)" />
   <g
      id="g3378-2"
-     transform="translate(-512.96997,-177.41824)"
-     inkscape:transform-center-x="-48.35388"
-     inkscape:transform-center-y="16.708808">
+     transform="rotate(-45,124.54007,994.41535)"
+     inkscape:transform-center-x="-23.627689"
+     inkscape:transform-center-y="-29.09003">
     <g
        id="g3405-0"
        transform="rotate(-90,752.91495,258.0501)">
@@ -994,9 +1020,9 @@
      style="display:inline;fill:#b4d445;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect6918-8-3-3-6-0-3-5-0-6-1-10-4-4-2-2"
      width="5.2915998"
-     height="18.818024"
+     height="26.221601"
      x="-134.17531"
-     y="304.25238"
+     y="296.84882"
      transform="rotate(-90)" />
   <rect
      style="display:inline;fill:#999999;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1009,9 +1035,9 @@
      style="display:inline;fill:#999999;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect6918-8-3-3-6-0-3-5-0-6-1-2"
      width="5.2916279"
-     height="24.009325"
+     height="22.115799"
      x="312.97876"
-     y="104.07437" />
+     y="105.96793" />
   <rect
      style="fill:#1180ff;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect6918-968-86-7-9-4-7-4-4-1-9-6-7"
@@ -1775,6 +1801,26 @@
        y="66.40873"
        ry="3"
        rx="3" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3935-5-2-60-4-1-3"
+       width="7.3952894"
+       height="18.799999"
+       x="-319.35464"
+       y="82.629868"
+       ry="3"
+       rx="3"
+       transform="scale(-1)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3935-5-2-60-4-1-3-0"
+       width="7.3952894"
+       height="18.799999"
+       x="-284.91794"
+       y="68.761024"
+       ry="3"
+       rx="3"
+       transform="scale(-1)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3102,7 +3148,7 @@
        transform="scale(0.95674691,1.0452085)">Отрадное</text>
   </g>
   <g
-     transform="translate(178.87087,-284.65936)"
+     transform="translate(178.89786,-282.7659)"
      id="g2603">
     <circle
        style="fill:#999999;stroke:#ffa8af;stroke-width:0"
@@ -3415,48 +3461,18 @@
        id="text4524-7-28-7-04-5"
        transform="scale(0.95674691,1.0452085)">Бульвар Дмитрия Донского</text>
   </g>
-  <g
-     id="g3141"
-     transform="translate(350.23578,-167.48854)">
-    <circle
-       style="fill:#b4d445;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
-       id="212"
-       cx="-88.41954"
-       cy="212.25131"
-       r="2.6458333" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="-89.750626"
-       y="204.90083"
-       id="text4524-7-15"
-       transform="scale(0.95674691,1.0452085)">Селигерская</text>
-  </g>
-  <circle
-     r="2.6458333"
-     cy="83.078316"
-     cx="274.75125"
-     id="211"
-     style="fill:#b4d445;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0" />
   <text
      transform="scale(0.95674691,1.0452085)"
      id="text4524-7-15-2"
-     y="81.814217"
-     x="233.27577"
+     y="83.651268"
+     x="267.61401"
      style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
      xml:space="preserve">Верхние Лихоборы</text>
-  <circle
-     r="2.6458333"
-     cy="36.867199"
-     cx="314.62241"
-     id="210"
-     style="fill:#b4d445;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
-     transform="rotate(15)" />
   <text
      transform="scale(0.95674691,1.0452085)"
      id="text4524-7-15-8"
-     y="114.26431"
-     x="280.69202"
+     y="106.25705"
+     x="275.98175"
      style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
      xml:space="preserve">Окружная</text>
   <circle
@@ -3898,23 +3914,19 @@
      x="425.36694"
      style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
      xml:space="preserve">Каховская</text>
-  <g
-     id="g2478"
-     transform="translate(297.11877,126.95757)">
-    <circle
-       style="fill:#ffa8af;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
-       id="277"
-       cx="146.48505"
-       cy="-13.616245"
-       r="2.6458333" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="155.77365"
-       y="-11.197266"
-       id="text4524-7-15-39-92"
-       transform="scale(0.95674691,1.0452085)">Ботанический Сад</text>
-  </g>
+  <circle
+     r="2.6458333"
+     cy="108.3496"
+     cx="424.08713"
+     id="277"
+     style="fill:#ffa8af;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0" />
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-7-15-39-92"
+     y="112.62531"
+     x="409.44516"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Ботанический Сад</text>
   <g
      transform="translate(325.77201,137.96576)"
      id="g2478-3">
@@ -4237,7 +4249,7 @@
        transform="scale(0.95674691,1.0452085)">Панфиловская</text>
   </g>
   <g
-     transform="translate(-337.68146,873.71022)"
+     transform="translate(60.491195,20.006194)"
      id="g2478-83-06">
     <circle
        style="fill:#ffa8af;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
@@ -4254,7 +4266,7 @@
        transform="scale(0.95674691,1.0452085)">Стрешнево</text>
   </g>
   <g
-     transform="translate(-337.84269,881.12706)"
+     transform="translate(60.329965,27.423034)"
      id="g2478-83-08">
     <circle
        style="fill:#ffa8af;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
@@ -4271,7 +4283,7 @@
        transform="scale(0.95674691,1.0452085)">Балтийская</text>
   </g>
   <g
-     transform="translate(-337.19157,890.0602)"
+     transform="translate(60.981085,36.356174)"
      id="g2478-83-20">
     <circle
        style="fill:#ffa8af;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
@@ -4288,7 +4300,7 @@
        transform="scale(0.95674691,1.0452085)">Коптево</text>
   </g>
   <g
-     transform="translate(-337.84269,898.21805)"
+     transform="translate(60.329965,44.514024)"
      id="g2478-83-134">
     <circle
        style="fill:#ffa8af;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
@@ -4304,25 +4316,21 @@
        id="text4524-7-15-39-92-3-00"
        transform="scale(0.95674691,1.0452085)">Лихоборы</text>
   </g>
+  <circle
+     r="2.6458333"
+     cy="127.28437"
+     cx="281.22369"
+     id="279"
+     style="fill:#ffa8af;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0" />
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-7-15-39-92-3-79"
+     y="128.133"
+     x="272.49347"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Окружная</text>
   <g
-     transform="translate(-337.35899,905.31242)"
-     id="g2478-83-9">
-    <circle
-       style="fill:#ffa8af;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
-       id="279"
-       cx="146.48505"
-       cy="-13.616245"
-       r="2.6458333" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="155.77365"
-       y="-11.197266"
-       id="text4524-7-15-39-92-3-79"
-       transform="scale(0.95674691,1.0452085)">Окружная</text>
-  </g>
-  <g
-     transform="translate(-336.55281,913.69668)"
+     transform="translate(169.17665,127.02944)"
      id="g2478-83-70">
     <circle
        style="fill:#ffa8af;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
@@ -5546,13 +5554,6 @@
      y="57.598808" />
   <rect
      style="display:inline;fill:#999999;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect6918-8-3-3-6-0-3-5-0-6-1-0"
-     width="5.2916002"
-     height="20.346098"
-     x="312.97879"
-     y="76.836609" />
-  <rect
-     style="display:inline;fill:#999999;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect6918-8-3-3-6-0-3-5-0-6-1-9"
      width="5.2916002"
      height="18.278194"
@@ -5945,61 +5946,73 @@
      sodipodi:end="0"
      d="m 312.03326,218.88763 a 5.2916002,5.2916002 0 0 1 5.42525,-0.24873 5.2916002,5.2916002 0 0 1 2.78698,4.66132 h -5.2916 z"
      transform="rotate(-15)" />
-  <rect
-     style="display:inline;fill:#b4d445;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect6918-8-3-3-6-0-3-5-0-6-1-10-9-7-8"
-     width="5.2916002"
-     height="11.756225"
-     x="193.75681"
-     y="251.98651"
-     transform="rotate(-30)" />
   <path
      id="2-0-6-1-1-1-8-9-5-6-6-2-0-3-2"
      style="fill:#b4d445;fill-opacity:1;stroke:#ffa8af;stroke-width:0"
      sodipodi:type="arc"
-     sodipodi:cx="-260.52768"
-     sodipodi:cy="-203.23842"
+     sodipodi:cx="-253.93088"
+     sodipodi:cy="-201.47081"
      sodipodi:rx="5.2916002"
      sodipodi:ry="5.2916002"
      sodipodi:start="4.1277037"
      sodipodi:end="0"
-     d="m -263.44831,-207.65101 a 5.2916002,5.2916002 0 0 1 5.42525,-0.24873 5.2916002,5.2916002 0 0 1 2.78698,4.66132 h -5.2916 z"
+     d="m -256.85151,-205.8834 a 5.2916002,5.2916002 0 0 1 5.42525,-0.24873 5.2916002,5.2916002 0 0 1 2.78698,4.66132 h -5.2916 z"
      transform="rotate(165)" />
-  <rect
-     style="display:inline;fill:#b4d445;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect6918-8-3-3-6-0-3-5-0-6-1-10-9-7-8-7"
-     width="5.2916002"
-     height="32.292881"
-     x="193.75684"
-     y="212.76901"
-     transform="rotate(-30)" />
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-7-15"
+     y="62.475319"
+     x="252.08804"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Селигерская</text>
+  <circle
+     r="2.6458333"
+     cy="63.115631"
+     cx="238.73376"
+     id="212"
+     style="fill:#b4d445;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0" />
+  <circle
+     r="2.6458333"
+     cy="151.2471"
+     cx="221.89737"
+     id="211"
+     style="fill:#b4d445;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0"
+     transform="rotate(-15)" />
+  <circle
+     r="2.6458333"
+     cy="116.39278"
+     cx="281.21286"
+     id="210"
+     style="fill:#b4d445;fill-opacity:0.98009949;stroke:#ffa8af;stroke-width:0" />
   <rect
      style="display:inline;fill:#b4d445;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect6918-8-3-3-6-0-3-5-0-6-1-10-9-7-8-3"
-     width="5.2916002"
-     height="11.756225"
-     x="259.17044"
-     y="48.208614" />
+     width="5.2916007"
+     height="6.2562251"
+     x="236.08798"
+     y="66.56147" />
   <path
      id="2-0-6-1-1-1-8-9-5-6-6-2-0-3-2-0"
      style="fill:#b4d445;fill-opacity:1;stroke:#ffa8af;stroke-width:0"
      sodipodi:type="arc"
-     sodipodi:cx="-239.93066"
-     sodipodi:cy="-126.3694"
+     sodipodi:cx="-214.30817"
+     sodipodi:cy="-132.81012"
      sodipodi:rx="5.2916002"
      sodipodi:ry="5.2916002"
      sodipodi:start="4.5588"
      sodipodi:end="0.42586034"
-     d="m -240.7402,-131.59871 a 5.2916002,5.2916002 0 0 1 5.02445,2.03001 5.2916002,5.2916002 0 0 1 0.60406,5.38528 l -4.81897,-2.18598 z"
+     d="m -215.11771,-138.03943 a 5.2916002,5.2916002 0 0 1 5.02446,2.03001 5.2916002,5.2916002 0 0 1 0.60406,5.38528 l -4.81898,-2.18598 z"
      transform="rotate(165)" />
   <rect
      style="display:inline;fill:#b4d445;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect6918-8-3-3-6-0-3-5-0-6-1-10-4-4-2-2-2"
      width="5.2915998"
-     height="21.715252"
-     x="193.75684"
-     y="184.16208"
-     transform="rotate(-30)" />
+     height="16.31525"
+     x="113.89965"
+     y="222.17102"
+     transform="rotate(-45)"
+     inkscape:transform-center-x="3.8974523"
+     inkscape:transform-center-y="-7.6391888" />
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -6949,266 +6962,263 @@
        style="opacity:1;fill:#999999;fill-opacity:1;stroke:#007137;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
   </g>
   <g
-     id="g3716"
+     transform="translate(260.67735,315.04254)"
+     id="g6645-86">
+    <circle
+       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
+       id="32"
+       cx="52.151855"
+       cy="-13.045029"
+       r="2.6458333" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+       x="57.175793"
+       y="-10.650756"
+       id="text4524-342-08-8"
+       transform="scale(0.95674691,1.0452085)">Маяковская</text>
+  </g>
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-5-1-9-9"
+     width="5.2915983"
+     height="14.629399"
+     x="5.0003691"
+     y="416.642"
+     transform="rotate(-45)" />
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-342-08-157"
+     y="185.77103"
+     x="217.18747"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Войковская</text>
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-342-08-2"
+     y="231.54578"
+     x="265.43942"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Сокол</text>
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-342-08-26"
+     y="213.43137"
+     x="251.4998"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Аэропорт</text>
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-342-08-5"
+     y="244.68161"
+     x="282.86069"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Динамо</text>
+  <circle
+     r="2.6458333"
+     cy="44.92588"
+     cx="178.61955"
+     id="199"
+     style="fill:#44aa00;stroke:#ffa8af;stroke-width:0" />
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-342-08"
+     y="44.812748"
+     x="189.36092"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Ховрино</text>
+  <circle
+     r="2.6458333"
+     cy="80.387466"
+     cx="178.61952"
+     id="303"
+     style="fill:#44aa00;stroke:#ffa8af;stroke-width:0" />
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-342-08-1"
+     y="78.740479"
+     x="189.36089"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Беломорская</text>
+  <circle
+     r="2.6458333"
+     cy="112.38713"
+     cx="178.61949"
+     id="39"
+     style="fill:#44aa00;stroke:#ffa8af;stroke-width:0" />
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-342-08-15"
+     y="109.35609"
+     x="189.36086"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Речной Вокзал</text>
+  <circle
+     r="2.6458333"
+     cy="149.98123"
+     cx="178.61951"
+     id="38"
+     style="fill:#44aa00;stroke:#ffa8af;stroke-width:0" />
+  <text
+     transform="scale(0.95674691,1.0452085)"
+     id="text4524-342-08-0"
+     y="145.32411"
+     x="189.36087"
+     style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
+     xml:space="preserve">Водный Стадино</text>
+  <circle
+     r="2.6458333"
+     cy="281.55725"
+     cx="7.6461816"
+     id="37"
+     style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
+     transform="rotate(-45)" />
+  <circle
+     r="2.6458333"
+     cy="328.43091"
+     cx="7.6461816"
+     id="36"
+     style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
+     transform="rotate(-45)" />
+  <circle
+     r="2.6458333"
+     cy="349.23132"
+     cx="7.6461816"
+     id="35"
+     style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
+     transform="rotate(-45)" />
+  <circle
+     r="2.6458333"
+     cy="371.90912"
+     cx="7.6461816"
+     id="34"
+     style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
+     transform="rotate(-45)" />
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9"
+     width="5.2915993"
+     height="28.569393"
+     x="175.97375"
+     y="48.371769" />
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-7"
+     width="5.2915993"
+     height="25.107475"
+     x="175.97372"
+     y="83.833351" />
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-4"
+     width="5.2915993"
+     height="30.702393"
+     x="175.97375"
+     y="115.83302" />
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-5"
+     width="5.2915993"
+     height="13.28306"
+     x="175.97375"
+     y="153.42706" />
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6"
+     width="5.2915993"
+     height="32.055725"
+     x="5.0003681"
+     y="246.05573"
+     transform="rotate(-45)" />
+  <path
+     id="2-0-6-1-1-1-8-9-5-7"
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0"
+     sodipodi:type="arc"
+     sodipodi:cx="-246.0164"
+     sodipodi:cy="-11.192327"
+     sodipodi:rx="5.2916002"
+     sodipodi:ry="5.2916002"
+     sodipodi:start="4.0439279"
+     sodipodi:end="5.6618481"
+     d="m -249.29603,-15.345049 a 5.2916002,5.2916002 0 0 1 4.02065,-1.086736 5.2916002,5.2916002 0 0 1 3.56158,2.159096 l -4.3026,3.080362 z"
+     transform="rotate(-140)" />
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-7"
+     width="5.2915993"
+     height="39.98196"
+     x="5.0003681"
+     y="285.00311"
+     inkscape:transform-center-x="33.049803"
+     inkscape:transform-center-y="-23.610313"
+     transform="rotate(-45)" />
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-5"
+     width="5.2915998"
+     height="13.908814"
+     x="5.0003681"
+     y="331.87671"
+     transform="rotate(-45)" />
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-5-1"
+     width="5.2915998"
+     height="15.786083"
+     x="5.0003681"
+     y="352.67719"
+     transform="rotate(-45)" />
+  <rect
+     style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-5-1-1"
+     width="5.2915998"
+     height="34.399998"
+     x="4.9963484"
+     y="375.35522"
+     transform="rotate(-45)"
+     inkscape:transform-center-x="-12.162232"
+     inkscape:transform-center-y="12.16224" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3935-5-2-6"
+     width="7.3952894"
+     height="18.799999"
+     x="3.9444931"
+     y="398.35522"
+     ry="3"
+     rx="3"
+     transform="rotate(-45)" />
+  <circle
+     r="2.6458333"
+     cy="286.76718"
+     cx="297.58047"
+     id="33"
+     style="fill:#44aa00;stroke:#ffa8af;stroke-width:0" />
+  <circle
+     r="2.6458333"
+     cy="279.06558"
+     cx="289.87894"
+     id="83"
+     style="fill:#782121;fill-opacity:1;stroke:#ffa8af;stroke-width:0" />
+  <g
+     id="g4227"
      transform="translate(1.4810783,-1.826847)">
-    <g
-       id="g6645-86"
-       transform="translate(259.19627,316.86939)">
-      <circle
-         r="2.6458333"
-         cy="-13.045029"
-         cx="52.151855"
-         id="32"
-         style="fill:#44aa00;stroke:#ffa8af;stroke-width:0" />
-      <text
-         transform="scale(0.95674691,1.0452085)"
-         id="text4524-342-08-8"
-         y="-10.650756"
-         x="57.175793"
-         style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-         xml:space="preserve">Маяковская</text>
-    </g>
     <rect
        transform="rotate(-45)"
-       y="416.88651"
-       x="2.6613126"
-       height="14.629399"
-       width="5.2915983"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-5-1-9-9"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="215.63943"
-       y="187.51886"
-       id="text4524-342-08-157"
-       transform="scale(0.95674691,1.0452085)">Войковская</text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="263.89139"
-       y="233.29361"
-       id="text4524-342-08-2"
-       transform="scale(0.95674691,1.0452085)">Сокол</text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="249.95177"
-       y="215.1792"
-       id="text4524-342-08-26"
-       transform="scale(0.95674691,1.0452085)">Аэропорт</text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="281.31265"
-       y="246.42944"
-       id="text4524-342-08-5"
-       transform="scale(0.95674691,1.0452085)">Динамо</text>
-    <circle
-       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
-       id="199"
-       cx="177.13843"
-       cy="63.124893"
-       r="2.6458333" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="187.81284"
-       y="62.224594"
-       id="text4524-342-08"
-       transform="scale(0.95674691,1.0452085)">Ховрино</text>
-    <circle
-       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
-       id="303"
-       cx="177.13843"
-       cy="92.685959"
-       r="2.6458333" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="187.81284"
-       y="90.507034"
-       id="text4524-342-08-1"
-       transform="scale(0.95674691,1.0452085)">Беломорская</text>
-    <circle
-       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
-       id="39"
-       cx="177.13843"
-       cy="122.24702"
-       r="2.6458333" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="187.81284"
-       y="118.78951"
-       id="text4524-342-08-15"
-       transform="scale(0.95674691,1.0452085)">Речной Вокзал</text>
-    <circle
-       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
-       id="38"
-       cx="177.13843"
-       cy="151.80807"
-       r="2.6458333" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444447px;line-height:0px;font-family:'Times New Roman';fill:#000000;stroke-width:0.26458329"
-       x="187.81284"
-       y="147.07195"
-       id="text4524-342-08-0"
-       transform="scale(0.95674691,1.0452085)">Водный Стадино</text>
-    <circle
-       transform="rotate(-45)"
-       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
-       id="37"
-       cx="5.3071251"
-       cy="281.80176"
-       r="2.6458333" />
-    <circle
-       transform="rotate(-45)"
-       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
-       id="36"
-       cx="5.3071251"
-       cy="328.67542"
-       r="2.6458333" />
-    <circle
-       transform="rotate(-45)"
-       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
-       id="35"
-       cx="5.3071251"
-       cy="349.47583"
-       r="2.6458333" />
-    <circle
-       transform="rotate(-45)"
-       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
-       id="34"
-       cx="5.3071251"
-       cy="372.15363"
-       r="2.6458333" />
-    <rect
-       y="66.570724"
-       x="174.49268"
-       height="22.669394"
-       width="5.2915993"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="96.13179"
-       x="174.49268"
-       height="22.669394"
-       width="5.2915993"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-7"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="125.69286"
-       x="174.49268"
-       height="22.669394"
-       width="5.2915993"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-4"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="155.25391"
-       x="174.49268"
-       height="13.28306"
-       width="5.2915993"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-5"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       y="405.99973"
+       x="5.303081"
+       height="3.999999"
+       width="0.799999"
+       id="rect4128-0-9-5"
+       style="opacity:1;fill:#782121;fill-opacity:1;stroke:#007137;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(-45)"
-       y="246.30022"
-       x="2.6613119"
-       height="32.055725"
-       width="5.2915993"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       transform="rotate(-140)"
-       d="m -249.33573,-17.696515 a 5.2916002,5.2916002 0 0 1 4.02064,-1.086735 5.2916002,5.2916002 0 0 1 3.56159,2.159096 l -4.30261,3.080362 z"
-       sodipodi:end="5.6618481"
-       sodipodi:start="4.0439279"
-       sodipodi:ry="5.2916002"
-       sodipodi:rx="5.2916002"
-       sodipodi:cy="-13.543792"
-       sodipodi:cx="-246.05611"
-       sodipodi:type="arc"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0"
-       id="2-0-6-1-1-1-8-9-5-7" />
-    <rect
-       transform="rotate(-45)"
-       inkscape:transform-center-y="-23.610313"
-       inkscape:transform-center-x="33.049803"
-       y="285.24762"
-       x="2.6613119"
-       height="39.98196"
-       width="5.2915993"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-7"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       transform="rotate(-45)"
-       y="332.12122"
-       x="2.6613119"
-       height="13.908814"
-       width="5.2915998"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-5"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       transform="rotate(-45)"
-       y="352.92169"
-       x="2.6613119"
-       height="15.786083"
-       width="5.2915998"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-5-1"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       inkscape:transform-center-y="12.16224"
-       inkscape:transform-center-x="-12.162232"
-       transform="rotate(-45)"
-       y="375.59973"
-       x="2.6572921"
-       height="34.399998"
-       width="5.2915998"
-       id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-1-5-4-9-6-5-1-1"
-       style="fill:#44aa00;fill-opacity:1;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       transform="rotate(-45)"
-       rx="3"
-       ry="3"
-       y="398.59973"
-       x="1.6054366"
-       height="18.799999"
-       width="7.3952894"
-       id="rect3935-5-2-6"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="fill:#44aa00;stroke:#ffa8af;stroke-width:0"
-       id="33"
-       cx="296.0994"
-       cy="288.59402"
-       r="2.6458333" />
-    <circle
-       style="fill:#782121;fill-opacity:1;stroke:#ffa8af;stroke-width:0"
-       id="83"
-       cx="288.39786"
-       cy="280.89243"
-       r="2.6458333" />
-    <g
-       id="g4227">
-      <rect
-         style="opacity:1;fill:#782121;fill-opacity:1;stroke:#007137;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4128-0-9-5"
-         width="0.799999"
-         height="3.999999"
-         x="5.303081"
-         y="405.99973"
-         transform="rotate(-45)" />
-      <rect
-         style="opacity:1;fill:#44aa00;fill-opacity:1;stroke:#007137;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4128-6-80-1-7"
-         width="0.799999"
-         height="3.999999"
-         x="4.5030932"
-         y="405.99973"
-         transform="rotate(-45)" />
-    </g>
+       y="405.99973"
+       x="4.5030932"
+       height="3.999999"
+       width="0.799999"
+       id="rect4128-6-80-1-7"
+       style="opacity:1;fill:#44aa00;fill-opacity:1;stroke:#007137;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <circle
      r="2.6458333"
@@ -9437,7 +9447,7 @@
   </g>
   <g
      id="g3485"
-     transform="rotate(-90,409.60733,528.76469)">
+     transform="rotate(-90,211.96562,466.43753)">
     <g
        id="g4034"
        transform="translate(-1.3950997,-11.624412)">
@@ -9852,5 +9862,42 @@
        width="5.2915988"
        id="rect6918-968-86-7-9-4-7-4-4-1-9-6-0-8-3-3-6"
        style="fill:#24221c;fill-opacity:0.29139075;stroke:#ffa8af;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g3594"
+     transform="rotate(-90,343.96063,120.77607)">
+    <rect
+       transform="rotate(89.942694)"
+       y="-358.67358"
+       x="92.829239"
+       height="3.9999986"
+       width="0.799999"
+       id="rect4128-6-8-6-3-5-0-5-8"
+       style="opacity:1;fill:#ffa8af;fill-opacity:1;stroke:#007137;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3329-1-6-6"
+       d="m 354.76625,92.082925 -2.1e-4,-0.38957 1.99979,-1e-5 h 1.9998 l 2e-4,0.38957 2.1e-4,0.38953 -1.99979,1e-5 -1.99978,1e-5 z"
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#007137;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+  </g>
+  <g
+     id="g3659"
+     transform="rotate(90,261.99945,129.21387)">
+    <rect
+       transform="rotate(89.942694)"
+       y="-256.51401"
+       x="109.44964"
+       height="3.9999986"
+       width="0.799999"
+       id="rect4128-6-8-6-3-5-0-5-8-7"
+       style="opacity:1;fill:#ffa8af;fill-opacity:1;stroke:#007137;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(-90.0004)"
+       y="252.62337"
+       x="-110.79881"
+       height="3.999999"
+       width="0.799999"
+       id="rect4128-0-9-5-5-2-5"
+       style="opacity:1;fill:#b4d445;fill-opacity:1;stroke:#007137;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
